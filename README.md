@@ -1,7 +1,7 @@
 # Global Development Measurement Clustering Project
 
 ## Overview
-This project uses unsupervised machine learning to cluster countries based on diverse development indicators. By leveraging **PCA, K-Means Clustering, and an interactive Streamlit app**, the project enables users to explore country profiles, compare global trends, and predict development status (Developed, Developing, Under Developed) using real-world data.
+This project uses unsupervised machine learning to cluster countries based on diverse development indicators. By leveraging **PCA, K-Means Clustering and an interactive Streamlit app**, the project enables users to explore country profiles, compare global trends, and predict development status (Developed, Developing, Under Developed) using real-world data.
 
 ## Dataset
 - **File:** World_development_mesurement.csv
@@ -10,7 +10,7 @@ This project uses unsupervised machine learning to cluster countries based on di
 
 ## Tools and Technologies
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Scikit-learn** (PCA, KMeans, MinMaxScaler, KNNImputer)
+- **Scikit-learn** (PCA, KMeans, Hierarchical, DBSCAN, MinMaxScaler, KNNImputer)
 - **Streamlit** (for interactive deployment)
 - **Jupyter Notebook** (for prototyping and analysis)
 
